@@ -1,0 +1,26 @@
+{
+  "name": "ajs-esm",
+  "version": "1.0.0",
+  "description": "additional task",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maden51/AJS-ESM.git"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "Maden51",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maden51/AJS-ESM/issues"
+  },
+  "homepage": "https://github.com/Maden51/AJS-ESM#readme",
+  "devDependencies": {
+    "http-server": "^13.0.1"
+  }
+}
